@@ -35,10 +35,10 @@ No need to install the application.
 
 ## Built With
 
-  - <img align="left" alt="HTML" width="32px" src="image-1.png"/>
+  - <img align="left" alt="HTML" width="32px" src="image-1.png"/><br>
 
-  - <img align="left" alt="CSS" width="32px" src="image-2.png"/>
-  
+  - <img align="left" alt="CSS" width="32px" src="image-2.png"/><br>
+
   - <img align="left" alt="JS" width="32px" src="image-3.png">
 
 ## Version

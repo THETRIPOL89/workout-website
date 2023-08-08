@@ -31,7 +31,7 @@ No need to install the application.
 
 ## Usage
 
-Just go <a target="_blank" href="https://thetripol89.github.io/workout-website/">here</a>
+Just go <a href="https://thetripol89.github.io/workout-website/" target="_blank">here</a>
 
 ## Built With
 

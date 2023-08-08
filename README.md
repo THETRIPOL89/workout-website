@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="image.png" alt="logo" width="200" height="auto" />
+  <img src="https://i.imgur.com/Evy4RvL.png" alt="logo" width="200" height="auto" />
 </div>
 
 <h1 align="center">Workout Planner</h1>
@@ -8,7 +8,7 @@
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/THETRIPOL89/CustomPassGen/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/THETRIPOL89/CustomPassGen/blob/main/LICENSE.md)
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/THETRIPOL89/workout-website/blob/main/LICENSE)
 
 </div>
 

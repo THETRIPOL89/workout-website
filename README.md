@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="![Alt text](image.png)" alt="logo" width="200" height="auto" />
+  <img src="!image.png" alt="logo" width="200" height="auto" />
 </div>
 
 <h1 align="center">Workout Planner</h1>
@@ -35,9 +35,9 @@ No need to install the application.
 
 ## Built With
 
-  - <img align="left" alt="HTML" width="26px" src="![HTML](image-1.png)"/>
-  - <img align="left" alt="CSS" width="26px" src="![CSS](image-2.png)"/>
-  - <img align="left" alt="JS" width="26px" src="![JS](image-3.png)">
+  - <img align="left" alt="HTML" width="26px" src="image-1.png"/>
+  - <img align="left" alt="CSS" width="26px" src="image-2.png"/>
+  - <img align="left" alt="JS" width="26px" src="image-3.png">
 
 ## Version
 
